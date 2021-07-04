@@ -1,6 +1,6 @@
 # TrackMania In-Game Plugins (OpenPlanet API)
 [![GitHub Release](https://img.shields.io/github/release/chrizonix/OpenPlanet-Plugins.svg)](https://github.com/chrizonix/OpenPlanet-Plugins/releases/tag/v1.0.0.0)
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/chrizonix/OpenPlanet-Plugins/v1.0.0.2/total.svg)](https://github.com/chrizonix/OpenPlanet-Plugins/releases/tag/v1.0.0.0)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/chrizonix/OpenPlanet-Plugins/v1.0.0.0/total.svg)](https://github.com/chrizonix/OpenPlanet-Plugins/releases/tag/v1.0.0.0)
 [![Github Commits (since latest release)](https://img.shields.io/github/commits-since/chrizonix/OpenPlanet-Plugins/latest.svg)](https://github.com/chrizonix/OpenPlanet-Plugins/compare/v1.0.0.0...master)
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/chrizonix/OpenPlanet-Plugins.svg)](https://github.com/chrizonix/OpenPlanet-Plugins)
 [![Github License](https://img.shields.io/github/license/chrizonix/OpenPlanet-Plugins.svg)](LICENSE.md)
