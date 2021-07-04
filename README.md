@@ -12,7 +12,7 @@ In-Game Plugin for TrackMania Turbo to Record Scoreboard Updates
 * Install the Plugins to
   * `C:\Users\[user]\OpenplanetTurbo\Scripts` (for TrackMania Turbo) or
   * `C:\Users\[user]\Openplanet4\Scripts` (for ManiaPlanet 4)
-* Launch the TurboCup Recorder App ([chrizonix/TrackMania-Turbo-Cup](https://github.com/chrizonix/TrackMania-Turbo-Cup))
+* Launch the TurboCup Recorder App ([chrizonix/TrackMania-Turbo-Recorder](https://github.com/chrizonix/TrackMania-Turbo-Recorder))
 * Launch the Game and Wait for the Main Screen
 * Launch the Plugin via `F3 -> Scripts -> Turbo Cup -> Control Panel -> Start`
 
